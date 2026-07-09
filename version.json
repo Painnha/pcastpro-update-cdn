@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.0.2",
+    "version":  "2.0.3",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "fix file locking PCastPro.exe",
+    "releaseNotes":  "update font terminal",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -64,6 +64,11 @@
                         "date":  "2026-07-09",
                         "releaseNotes":  "fix UI terminal",
                         "version":  "2.0.1"
+                    },
+                    {
+                        "date":  "2026-07-09",
+                        "releaseNotes":  "fix file locking PCastPro.exe",
+                        "version":  "2.0.2"
                     }
                 ]
 }
