@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.0.3",
+    "version":  "2.0.4",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "update font terminal",
+    "releaseNotes":  "Cap nhat phien ban 2.0.4",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -69,6 +69,11 @@
                         "date":  "2026-07-09",
                         "releaseNotes":  "fix file locking PCastPro.exe",
                         "version":  "2.0.2"
+                    },
+                    {
+                        "date":  "2026-07-09",
+                        "releaseNotes":  "update font terminal",
+                        "version":  "2.0.3"
                     }
                 ]
 }
