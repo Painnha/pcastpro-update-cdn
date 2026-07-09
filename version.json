@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.0",
+    "version":  "2.0.1",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "fix github qua 100MB",
+    "releaseNotes":  "fix UI terminal",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -54,6 +54,11 @@
                         "date":  "2026-07-09",
                         "releaseNotes":  "doi ten file PCastPro",
                         "version":  "1.1.1"
+                    },
+                    {
+                        "date":  "2026-07-09",
+                        "releaseNotes":  "fix github qua 100MB",
+                        "version":  "2.0"
                     }
                 ]
 }
