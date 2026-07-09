@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "downloadUrl":  "https://pcastpro.nguyentriphong.id.vn/pcastpro-latest.zip",
     "releaseNotes":  [
-                         "Sua loi tu dong cap nhat (Auto-updater)",
-                         "Sua loi font chu hien thi terminal Windows",
-                         "Them co che fallback an toan khi loi cap nhat"
+                         "Sua loi auto-update file-lock",
+                         "Tu dong deploy Netlify",
+                         "Luu tru version cu"
                      ],
     "history":  [
                     {
@@ -25,6 +25,15 @@
                                              "Mac dinh khong co quyen cho tai khoan moi"
                                          ],
                         "version":  "1.0.1"
+                    },
+                    {
+                        "date":  "2026-07-09",
+                        "releaseNotes":  [
+                                             "Sua loi tu dong cap nhat (Auto-updater)",
+                                             "Sua loi font chu hien thi terminal Windows",
+                                             "Them co che fallback an toan khi loi cap nhat"
+                                         ],
+                        "version":  "1.0.2"
                     }
                 ]
 }
