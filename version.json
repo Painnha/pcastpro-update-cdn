@@ -1,11 +1,7 @@
 ﻿{
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "downloadUrl":  "https://pcastpro.nguyentriphong.id.vn/pcastpro-latest.zip",
-    "releaseNotes":  [
-                         "Sua loi auto-update file-lock",
-                         "Tu dong deploy Netlify",
-                         "Luu tru version cu"
-                     ],
+    "releaseNotes":  "them startup banner",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -34,6 +30,15 @@
                                              "Them co che fallback an toan khi loi cap nhat"
                                          ],
                         "version":  "1.0.2"
+                    },
+                    {
+                        "date":  "2026-07-09",
+                        "releaseNotes":  [
+                                             "Sua loi auto-update file-lock",
+                                             "Tu dong deploy Netlify",
+                                             "Luu tru version cu"
+                                         ],
+                        "version":  "1.0.3"
                     }
                 ]
 }
