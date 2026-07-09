@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.1",
+    "version":  "1.1.1",
     "downloadUrl":  "https://pcastpro.nguyentriphong.id.vn/pcastpro-latest.zip",
-    "releaseNotes":  "Cap nhat phien ban 1.1",
+    "releaseNotes":  "doi ten file PCastPro",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -44,6 +44,11 @@
                         "date":  "2026-07-09",
                         "releaseNotes":  "them startup banner",
                         "version":  "1.0.4"
+                    },
+                    {
+                        "date":  "2026-07-09",
+                        "releaseNotes":  "Cap nhat phien ban 1.1",
+                        "version":  "1.1"
                     }
                 ]
 }
