@@ -1,7 +1,10 @@
 ﻿{
-    "version":  "2.2.1",
+    "version":  "2.2.2",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "them theme blvChanh_dtdv2026",
+    "releaseNotes":  [
+                         "fix bug icon lane theme blvChanh_dtdv2026",
+                         "hien thi phien ban moi nhat build release"
+                     ],
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -89,6 +92,11 @@
                         "date":  "2026-07-10",
                         "releaseNotes":  "fix bug mat du lieu obs config",
                         "version":  "2.2"
+                    },
+                    {
+                        "date":  "2026-07-10",
+                        "releaseNotes":  "fix bug logo lane theme blvChanh_dtdv2026",
+                        "version":  "2.2.1"
                     }
                 ]
 }
