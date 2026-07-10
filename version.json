@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.2",
+    "version":  "2.2.1",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "fix bug mat du lieu obs config",
+    "releaseNotes":  "them theme blvChanh_dtdv2026",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -84,6 +84,11 @@
                         "date":  "2026-07-10",
                         "releaseNotes":  "tu dong mo lien ket index.html",
                         "version":  "2.1"
+                    },
+                    {
+                        "date":  "2026-07-10",
+                        "releaseNotes":  "fix bug mat du lieu obs config",
+                        "version":  "2.2"
                     }
                 ]
 }
