@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.1",
+    "version":  "2.2",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "tu dong mo lien ket index.html",
+    "releaseNotes":  "fix bug mat du lieu obs config",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -79,6 +79,11 @@
                         "date":  "2026-07-09",
                         "releaseNotes":  "Cap nhat phien ban 2.0.4",
                         "version":  "2.0.4"
+                    },
+                    {
+                        "date":  "2026-07-10",
+                        "releaseNotes":  "tu dong mo lien ket index.html",
+                        "version":  "2.1"
                     }
                 ]
 }
