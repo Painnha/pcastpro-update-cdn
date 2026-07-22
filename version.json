@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.3.1",
+    "version":  "2.4",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "sua loi dong goi",
+    "releaseNotes":  "fix bug loop",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -111,6 +111,11 @@
                                              "Tu dong sua loi video"
                                          ],
                         "version":  "2.3"
+                    },
+                    {
+                        "date":  "2026-07-22",
+                        "releaseNotes":  "fix loi loop thong bao",
+                        "version":  "2.3.1"
                     }
                 ]
 }
