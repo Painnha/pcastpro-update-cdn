@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.5",
+    "version":  "2.6",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "Cap nhat phien ban 2.5",
+    "releaseNotes":  "fix loi hien tuong terminal",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -121,6 +121,11 @@
                         "date":  "2026-07-22",
                         "releaseNotes":  "fix bug loop",
                         "version":  "2.4"
+                    },
+                    {
+                        "date":  "2026-07-22",
+                        "releaseNotes":  "Cap nhat phien ban 2.5",
+                        "version":  "2.5"
                     }
                 ]
 }
