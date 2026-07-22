@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.6",
+    "version":  "2.7",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "fix loi hien tuong terminal",
+    "releaseNotes":  "fix loi o ban khong grayscale",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -126,6 +126,11 @@
                         "date":  "2026-07-22",
                         "releaseNotes":  "Cap nhat phien ban 2.5",
                         "version":  "2.5"
+                    },
+                    {
+                        "date":  "2026-07-22",
+                        "releaseNotes":  "fix loi hien tuong terminal",
+                        "version":  "2.6"
                     }
                 ]
 }
