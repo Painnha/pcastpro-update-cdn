@@ -1,10 +1,7 @@
 ﻿{
-    "version":  "2.2.2",
+    "version":  "2.3.1",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  [
-                         "fix bug icon lane theme blvChanh_dtdv2026",
-                         "hien thi phien ban moi nhat build release"
-                     ],
+    "releaseNotes":  "sua loi dong goi",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -97,6 +94,23 @@
                         "date":  "2026-07-10",
                         "releaseNotes":  "fix bug logo lane theme blvChanh_dtdv2026",
                         "version":  "2.2.1"
+                    },
+                    {
+                        "date":  "2026-07-22",
+                        "releaseNotes":  [
+                                             "fix bug icon lane theme blvChanh_dtdv2026",
+                                             "hien thi phien ban moi nhat build release"
+                                         ],
+                        "version":  "2.2.2"
+                    },
+                    {
+                        "date":  "2026-07-22",
+                        "releaseNotes":  [
+                                             "Them Motion Hero",
+                                             "Nang cap he thong update Delta Updater",
+                                             "Tu dong sua loi video"
+                                         ],
+                        "version":  "2.3"
                     }
                 ]
 }
