@@ -1,7 +1,10 @@
 ﻿{
-    "version":  "2.9",
+    "version":  "3.0",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "fix bug theme chanh bi loi cu o pick slot",
+    "releaseNotes":  [
+                         "cap nhat toan bo UI",
+                         "sua lai co che tu dong tai motion tuong"
+                     ],
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -141,6 +144,11 @@
                         "date":  "2026-07-23",
                         "releaseNotes":  "fix o BAN theme default va default2",
                         "version":  "2.8"
+                    },
+                    {
+                        "date":  "2026-07-25",
+                        "releaseNotes":  "fix bug theme chanh bi loi cu o pick slot",
+                        "version":  "2.9"
                     }
                 ]
 }
