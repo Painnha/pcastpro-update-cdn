@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "releaseNotes": "PCastPro Release v3.0 - Unified Delta Updater & Motion Hero Assets",
+  "releaseNotes": "PCastPro Release v2.4 - Unified Delta Updater & Motion Hero Assets",
   "updatedAt": "2026-07-25T05:41:56.192Z",
   "coreDownloadUrl": "https://pcastpro.nguyentriphong.id.vn/downloads/PCastPro-v3.0.zip",
   "assetsBaseUrl": "https://github.com/Painnha/pcastpro-update-cdn/releases/download/v2.4/",
@@ -10,47 +10,47 @@
   "assets": [
     {
       "path": "frontend/images/heroMotion/encrypted/Airi.dat",
-      "hash": "73981739ee938acf112cd3b7acfe2891a405bab47282cae72dc8cb53d6f2fa3f",
+      "hash": "e834579cdc04d0c23d1ea7a55d0b92884d2795ff0584687fe05c88bd1c9b4580",
       "size": 6230099
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Aleister.dat",
-      "hash": "c9c87887be28c7309b894c7115ea63a39efcb03559b52ec83094875c3d817a44",
+      "hash": "5494bea6cadd870333881426c848b632f210274935e616d1dedf4b3934e39bee",
       "size": 5240158
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Alice.dat",
-      "hash": "73b1fda424deeb9556228e1e0d126edf66931054f43c9622728b7368a4f2cbb3",
+      "hash": "1bb98521cbfcef6676041ebfbb0db3e52781a4855d65fe79f42e48cdb6256d57",
       "size": 6828467
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Allain.dat",
-      "hash": "cd282e33031104ee2becb597289682a22b9a8e50afc10f3e572192fadc351959",
+      "hash": "eec5954ac31f0a597ae374a3df402a6cdd7c84d56418d85e9408664e8e8dbadf",
       "size": 5330767
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Amily.dat",
-      "hash": "2df4709d5a98c916436d50ad0058e7f33ddfb1b46304b5de7359e83604a4c865",
+      "hash": "ef8941666ec31cadd7246cdea11f5713c2c52b1c15e8b51a68812a5f0cbcba41",
       "size": 5467705
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Annette.dat",
-      "hash": "e23fba10d5fa17a830834cd22e9249d7afdf8d69a8fa30b5e5366a5cad1d49eb",
+      "hash": "cf7bd0a3ecfa2312e780c9b0a20095c2b8a0e2a9f1f1e41eb4575a69ef6e3ebb",
       "size": 5402023
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Aoi.dat",
-      "hash": "08fc6925e6945f782610118572223fe8c60148005ec7019b833e344f0a6908cb",
+      "hash": "0f5ccdaaab0c892f0ab9bc32e74ab4acb95b20ac8563fe33bd59da5887cb03e3",
       "size": 5280606
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Arduin.dat",
-      "hash": "dc434ffdee2cdf6060f806cf37c8e507493a443bf6df651a32a7be0f02720029",
+      "hash": "fb4ede5245c95ae7ec9a0f7ce4e355080543905ebff383011a9b638392423fee",
       "size": 5170277
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Arthur.dat",
-      "hash": "343c202b0f99ab28de7e12bea0e2919264ca4db545738ee16a20c32393b39789",
+      "hash": "a0a45c76dd273772bbc36bc5f60279ca88b79b7e744a995730b347dff48c9c01",
       "size": 5956569
     },
     {
@@ -65,157 +65,157 @@
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Ata.dat",
-      "hash": "1e2322344c599fb9845a2164482e58eca70b214e6bf84d5d0f70e3900564a4d0",
+      "hash": "819ae70c255f228c6c443bfd69ab7df0cef5dca170e5ea22ca7ff3d4a4a95522",
       "size": 6598822
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Aya.dat",
-      "hash": "afff995293c372a7095af05d166714b3d62ec57c2cbd9c8e166401e38e5329cd",
+      "hash": "8de7e40bef75a65aa035982f6d3baaa4c58c6186c7c839c161b7343fd905d4ec",
       "size": 5067703
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Azzenka.dat",
-      "hash": "ba992a038945633ddbbc4ac99fcd63adea1aa0fc5f793d2c1dfbc1bff1d0e518",
+      "hash": "539516210783092258e7a83d66f0a700ff54e4377ce003bcf2f3d4b8cccfbbe8",
       "size": 6341386
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Baldum.dat",
-      "hash": "66b9a1f31883b19c9cb89137c98b477b8623691da169c81dd67343c700cddb34",
+      "hash": "6915b35751c0c87295d55d2f7a9d63cfaef5a064e2204a6570db6822af5e5da4",
       "size": 4762375
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Bijan.dat",
-      "hash": "7c7859af34974d12ecea6eb49d650b4c2a110f94bca4ad7fb7ab14b02a369b55",
+      "hash": "c96162026bc0c7d0200cdccb66322ccf554559e460d27e9a0828d3c0300a116c",
       "size": 7830498
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Billow.dat",
-      "hash": "c0367c51dacfaf39bea9a1198d1c5e22c351b56db19fbfa86655a5eea5738825",
+      "hash": "c9efb8c989b9896fd740510c4b61a7759ead2a57ac9de77cc34acfc9440d4bad",
       "size": 2155050
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Biron.dat",
-      "hash": "ec76a8e037dfd2cc80ab7b39fc270ad0f48efd2bdb718fd85f17d5d971782fab",
+      "hash": "6b71c95115cb95d52306eb0a61fc0d805e6cbf595153548c03e33aca4cf03a44",
       "size": 23898951
     },
     {
       "path": "frontend/images/heroMotion/encrypted/BoltBaron.dat",
-      "hash": "82688edd54d3744727f65c2005fc8bb402885c8200a3fbc70f7fc1122db8a3bd",
+      "hash": "85bcd6e1b909768daa39ffe6059553b3d6d429168c79852fc3569e93b21d95c4",
       "size": 13395666
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Bonnie.dat",
-      "hash": "555a3ac93cee53e5bdce0f1a48ef284ee7168424f8e645447644817e6da9250f",
+      "hash": "4e97e813828f5db6dc00781ecf5b8ab141a91d34296e7d7b8f78321a1cf0c035",
       "size": 7210720
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Bright.dat",
-      "hash": "4dc925a7abada83a9f1218b288eaa0523e523355d9b3b1f3be1cb1c4e39fb6ee",
+      "hash": "cabcf8bbcd78fdc1819a66fd7a53216d34407be18393ead8564afbb47e08f255",
       "size": 5291651
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Butterfly.dat",
-      "hash": "7e27ec794d4b2f8bab1cf6804141d9a3f883406faf1cd5923b566de855b1546c",
+      "hash": "7cd4bc1171bd233f89adfda75f3846fe70cd0021c93182a4f429b649cfc625f0",
       "size": 5762817
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Capheny.dat",
-      "hash": "12658f0ca722da0eafc20a8b9b9a3366749eee91143fabc6ba1dd29086b3cf46",
+      "hash": "51214b575d968e565d3856cc3a92a46a970452fd4d92db71a98f9a0af95cb662",
       "size": 5236992
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Celica.dat",
-      "hash": "42acf5d5c28ff82727aad71f552facfa4b1dd91d1c3e4a54f6beb365dda1b89e",
+      "hash": "3e749f759b986748b657bcb9f1dd241ba746cba150bfb153965d9cb9b562d4e9",
       "size": 5133341
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Charlotte.dat",
-      "hash": "cf2181608ae6e09844a6dd13779bcf3460c4cf65134bfda38623891c51d47d67",
+      "hash": "20a9c277baa3a3cf445b53cac6edc52356c1335c80609d3a6783e2d5c313bb29",
       "size": 5545820
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Chaugnar.dat",
-      "hash": "2429e5832b625ef2f5e790682f58d5f703e486b0db48545c10d0dfdb4a8ad9ff",
+      "hash": "e40ccec2ee0eab73bf3f597738ca02eb935e23e8085cd5c4cbd14d1d62ecabc7",
       "size": 5043149
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Cresht.dat",
-      "hash": "ebe858be92ab20b5a69ae2f5419e0e83900fd0c0484f12678c9614203aa12ac9",
+      "hash": "d8ab1acc9d70402f7838f145de5d48d13299e713e4b50e96d7a10edb88757958",
       "size": 6511983
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Darcy.dat",
-      "hash": "ff04e01fb962657ab9ccc51999fbde6086c8840683b22674dd881cbd9411a083",
+      "hash": "9eb20173cbcba36a0c2f0e822aa6c6ee91ae5b1ecec5479d8778717d95da6f82",
       "size": 5631724
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Dextra.dat",
-      "hash": "1ee9d5e3f8c3f5beca78449ae8dea60995156857afcc572d14b4c51ac46f5496",
+      "hash": "94b571f525add34231f73fb3b0f9a03dc9c8739d2abc28b1364339c0db53e632",
       "size": 4986543
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Dieuthuyen.dat",
-      "hash": "bb62715ca7706571963d7cba9bf4188e2de721fea9ee41af58b9de176be51a70",
+      "hash": "907046d3f45dfdaab3551816ea0071fbc4f5ca14a23a59e0e9fdb26d95a7dc42",
       "size": 7348097
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Dirak.dat",
-      "hash": "2b2432b042356f88ed697216bcc48f01539219a712efee94b033201e5325497f",
+      "hash": "76784935d2e83a3297ec71ab69248b8325570b30d2b65068c8fb158421fc3e0c",
       "size": 3998962
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Dolia.dat",
-      "hash": "025012cefe67837a58e44c04ba4bed3a45d3e7cd663d3f0360147324208a4e8a",
+      "hash": "5e3c33105e89ebe936c1b49b1c3d223de73ff54a20656928f06cd34e711bb787",
       "size": 2571698
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Dyadia.dat",
-      "hash": "6914b23f530c439c1c1e01b0d8e803b638d3b2e1d56b3756261e53026a6d9703",
+      "hash": "2bcd615fe7b2ef33b60679ee0c45b7b513a1fa6f62ac6ada884089925b84f0c6",
       "size": 7815844
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Edras.dat",
-      "hash": "6cc7d794ce0bb10344635e124875ebd250e764a16abb2e4fa53d59c7f00ef43e",
+      "hash": "1f19d51faab39abbf9f8d596f61113574fd4c73a6a17957f55538635b9a5de38",
       "size": 5241394
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Elandorr.dat",
-      "hash": "7ba99f5b3ec9d8e98f5febb398592fcbdaa83dd41fffbf8387fede9dd55178aa",
+      "hash": "199866642c599d27d7f9fe94a72d844d8edad910b3c82e943ce4c61d70e01f01",
       "size": 450125
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Elsu.dat",
-      "hash": "2a9ac47da070454a76e2e700aa6530d9c8b5272111c008487ed61a9e25d2bee6",
+      "hash": "508016fc3ec3b920ef86b35d084470807d1e9add2e58942229cbf4aa85fd8151",
       "size": 5268364
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Enzo.dat",
-      "hash": "0851aea4c6e513362c9e23fc65564a86a14eac3ce1a937c7fb3204044a822d6d",
+      "hash": "02be461dea401d5d97500d4a61fb5c72a77d03419eb212b9673df5c7df64612c",
       "size": 5225996
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Erin.dat",
-      "hash": "dbac3d91c31587c2c4f91192c6692f4f40bd7ea5f4bff0135cf40ecceeab5e9d",
+      "hash": "68449cf59737b9c79bb84cd538a748af8818210f2ba12631470e775b61e0d149",
       "size": 5842196
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Errol.dat",
-      "hash": "c24a9f5853be4694bd7abd16bac3e0aca681f7136857be263df2b1aa20959343",
+      "hash": "a8252a3303cd8ae7e7dcaeef838db646656fe6fcfea1dbe7eb9626ed9a56c27d",
       "size": 5573988
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Fenik.dat",
-      "hash": "0f287cad595d12b63b1f960520a83fbf2f00307eeb95b3116463710314935a7a",
+      "hash": "61f2cc32ea13a6bf5b415dd1fce80681c2a60da79c29e896c96e63f0230fe4fe",
       "size": 4550619
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Flash.dat",
-      "hash": "c79d0ab923631646e33adbd462b20e5c62ce4dc1e37f82e6dc2c213afb77d78f",
+      "hash": "cbdbeea9723db8a6d8098bd95dd99eb840a6a9ea4d3d42a95ccae2004462ea30",
       "size": 6363987
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Florentino.dat",
-      "hash": "5377d2bf6a952db14b0fe52187171ae5542a508386dc7df897194d061f44b574",
+      "hash": "873a4853340326f0b5b0c52675e145564b598110adaa9b812e841289c35a5b6e",
       "size": 5003062
     },
     {
@@ -230,437 +230,437 @@
     },
     {
       "path": "frontend/images/heroMotion/encrypted/FlowbornPhapsu.dat",
-      "hash": "ed55a770b03a6c38afe343d0e9fa9d6c6c64c0e2d4abbde1d51eed794e55af3d",
+      "hash": "15ec5b1eb1639d74fabe1cc1ff6c5b9ed1caa86f46a79d1422db8d4b94752681",
       "size": 5634209
     },
     {
       "path": "frontend/images/heroMotion/encrypted/FlowbornXaThu.dat",
-      "hash": "3474d1b0caba53e4376b4d71e85e530884108aa434e1e157669b15f70d35a21e",
+      "hash": "18c1266df280e6bef90ded2ca48cbf452da25d5ad3e81cc8c10790adeb397893",
       "size": 15299686
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Gildur.dat",
-      "hash": "5a3d5daa19b14afe808d93cc5f4bb6a746354033ecdf80a062ef793c99d6546d",
+      "hash": "bcc5dc61a618e981309d4f1df01761d30a5055ece81a9fae263e50fdd453d4ef",
       "size": 16807756
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Goverra.dat",
-      "hash": "d7817a854f001e5a56957338450548362f3a6787a814c795398f232ab2177a0b",
+      "hash": "5a9a56c52fd5f794b1a32bda50588cc556811da302cba9b5c5cdb227b3621821",
       "size": 5738771
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Grakk.dat",
-      "hash": "c35f297b722ae678864bf0f526307ab61be4a49a6e33ee5406a81302e24a8e25",
+      "hash": "6a06600723a5c03655fa19caed97e39404d267e5bd3dffb99ce7c22272ff243b",
       "size": 5240143
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Hayate.dat",
-      "hash": "195c8148ac62032560f70d804164bc9847382579bbc2e2db0cdd57650918814d",
+      "hash": "09a580c8ddb3fccc9acca1ba273cd5d3495159dc0b253891ebc5d920aeca7725",
       "size": 4466560
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Helen.dat",
-      "hash": "be21b83509f4311fc2360fb8e0f085c765fb59a6fd0599d2b6ceb741a317885a",
+      "hash": "e26cd76c081aef9d32944478b47dc6edf89be62ee5ae0fd2915f60c2aed63959",
       "size": 4697574
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Henio.dat",
-      "hash": "d3b6ae5adbc4e376de4e105d62636ed9fa168c66169b13c27d02d6ce21282bc3",
+      "hash": "7247ce603c730f7ddc09be3b37c5bf2fb2f64d7bb2659ef84f7970a42668a94a",
       "size": 17700476
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Iggy.dat",
-      "hash": "fadd3f81d4472e229a66457ea8e7a06fed7e1a5c74b95bc539d0e9645f30dfd2",
+      "hash": "c75ac67d4ae88aeb8bd2860ba8b0df0264a886b1ca7788d8d0f8d4e9d54f0988",
       "size": 5520168
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Ignis.dat",
-      "hash": "b078ea1409c85ac09d19906e450f028bda481aa2c1d07884ae9adad48db6de14",
+      "hash": "ae0af5e7fd7dbc4e8b2f7f5016792ce5cf8b9109316bd2b9df74cef922919396",
       "size": 7418305
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Illumia.dat",
-      "hash": "c4b079a04ec85b25f78d56cb9e6b529545438fed286811f3ad97326f0290347a",
+      "hash": "621bd359a66f38eb30d10fc2c893768efce2777c21fad0df5a5d1fa4efcf763b",
       "size": 6165156
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Ishar.dat",
-      "hash": "1efccec83525bb62fb4ca4a964b7ac13cd2d1d6b5924508891031e2bedf3908a",
+      "hash": "083b996971cb570ea37fa94ed636912526d6ce1462ac6f5b2b297c2484f018a1",
       "size": 5567085
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Jinna.dat",
-      "hash": "5803e86b2ae1d685105a0ec8c829418d522343aa5ea3b465e7a21c7e985b06cf",
+      "hash": "adbf851de5f0d695416f5045270f535050b9ec6fce1633aa5d20a48e1f6a3fd3",
       "size": 5880522
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Kahlii.dat",
-      "hash": "ebeccd73180f99191ee36fd7c1907974f5679a4e22aff46983b9f93cc21c3a44",
+      "hash": "561e09950edb1a09938d9606b4dfeef3c42b736769611fc5d43c7e6e0f0edc36",
       "size": 5501792
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Kain.dat",
-      "hash": "be3bca6c2b4e8a8835c66b5ccbbe1a6e6aaefedbea961f2506dbb52f98cbc2f3",
+      "hash": "1ffcb2c9173dcd1ecab6f096784302f48e803fc9ae26ac9c8df13ee36e713767",
       "size": 7138589
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Keera.dat",
-      "hash": "c55115f980fdef123a8a01211e936bf4cb51f96fb30740135e4fa97371d56187",
+      "hash": "8dcef4ddb7060ebf5978f1618fbaa384c0caff845fd05435bd49c82a608e1ccc",
       "size": 5427232
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Kilgroth.dat",
-      "hash": "465648d6375697af17aeafcd3dba6e653ea8177060e2a52ac49e4c657c72850b",
+      "hash": "3180b26506605573c30ce0f3b90b4d69f0de5742d55f9ab813f413fa4cea4948",
       "size": 4672047
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Kriknak.dat",
-      "hash": "f4e98eb8118f5e90d24bc86d57f38c259a691b4917305d05d9bffdeaebc10c02",
+      "hash": "0cd70d1e65af82672c81854bf02fff710ef75b2575b47ad6d0dbf874c03c3632",
       "size": 5222299
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Krixi.dat",
-      "hash": "3cc8840eda55500154284f0fd3b1dee1279b857b4fff1b091e601c37f86fbcd7",
+      "hash": "c10877d4633cc99c6c81ccf344a099ddcc0de9ea483d90517c7c4fc2524b845c",
       "size": 5031949
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Krizzix.dat",
-      "hash": "c13fda9b7ce46c6bc77731aad1a901863ef8245b3b36adddc9815aeec66685f9",
+      "hash": "1544389e9193a26eead06962b191a25e489b2fb40350104110e6fd0fc638518a",
       "size": 5378862
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Lauriel.dat",
-      "hash": "33a798ccb140c650ea282c5fab0d9a8f417ba90207a74a35960dc8b409f40564",
+      "hash": "fb67962eaf2b6bb159c9880dc1dc570596b2b408f6df056b2cdd540160dd4198",
       "size": 6060879
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Laville.dat",
-      "hash": "6d70b433c5bad0c119b8115c7835456dc598b22e063868a76fd34eca27a0a540",
+      "hash": "629791127da1d33ab5d89365d4ecc0cfe8c97fea399a2faeaf19b214f4e5177c",
       "size": 5497274
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Liliana.dat",
-      "hash": "1012d9a6acd5f1905e5a9ef51970885e5b5a238b4ae4cec51783b30c1e392994",
+      "hash": "fb36ef76a29be36cef5eac940716799a4a7fbaf7a6e088e0346f9ee1ac24faf1",
       "size": 6404301
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Lindis.dat",
-      "hash": "d276dc0860dbc39c783438d70be8694b0282609ba1fbdae33d47c59c11115bfa",
+      "hash": "050352feae08c6bc652db1c87332529505209b7014cba95fac69def8fb34b35e",
       "size": 4735997
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Lorion.dat",
-      "hash": "5c8d7fce68cf9858eb5201946dd75cb07cc2cc30de11b38636aba37471cde72b",
+      "hash": "51cb5b88f0d9d5a424f6aa020ad2680acaf5ff3d6de7634cd1074e186ff774c9",
       "size": 4846235
     },
     {
       "path": "frontend/images/heroMotion/encrypted/LuBo.dat",
-      "hash": "88e31213b9d5608388a423d89848c04b3bfbbdb57167a0c47c8de116ed92c01b",
+      "hash": "035300e2e9f4f7672e49c46c8592fa9c0ff4bdbdab208916dc4760c0d61c7b18",
       "size": 5040306
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Lumburr.dat",
-      "hash": "9551689b5d97b257ebf144b6ffb5e5f60462ccc3fc9f4fb04feb55cef468aa9e",
+      "hash": "2c054762139bb9dd5cb13d11be2a04091502f832b118b29b09ba3cd73295b3d6",
       "size": 5345642
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Maloch.dat",
-      "hash": "01e52406bef6161b2a58df827c2fcc620e14ed8028c250991bc012df1cff8800",
+      "hash": "98da93663c0378a0c980721f9d4ed50a5d13ebb5797384e423f32d8c8cd0601f",
       "size": 5373563
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Marja.dat",
-      "hash": "4da6d12d43701283cd917fd85566dc8887732a703c197f49d3f9d3798d4673a4",
+      "hash": "cf5b734b22faa655b7121450bbb3db7519f41687d4570928c27ba68f880d00de",
       "size": 5085332
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Max.dat",
-      "hash": "d210338ba588bdd41ac6393ee28cde9113b09ac774466ac17966499af0237311",
+      "hash": "e44028ec37834edaf635ee3d3a07bc97db8b803bc3c55c7529e6a851ad8fe042",
       "size": 5262891
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Mganga.dat",
-      "hash": "e62441785d39088fe628de7d2f26ca06c9e829e4745bf120bf839f666ccc5df0",
+      "hash": "7651ddb4a22df6bf599c23dcf9cef2965fb2149a2973276689b558c9920190b1",
       "size": 6990894
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Mina.dat",
-      "hash": "61ee1716be45febdfe9c50efbfa619c2b6aec80bd8ac35a88094f62d7a1f95f0",
+      "hash": "e8d0ab03ec95fe5d517e64270d8386e96e080b2ce131a7a417bfeefd751f6e22",
       "size": 6749903
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Ming.dat",
-      "hash": "220d8f6ec9f25046e4518d018ad6b3645827a693b72f97662d07cfb050d576e8",
+      "hash": "1588c8af8d7909560359224e5113ecb5de1d3576ad68768718e4cd4cf172c277",
       "size": 5591165
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Moren.dat",
-      "hash": "acca65a032142b7f95f54ad8c6a89017cb76248987342e417ab9d6806a079491",
+      "hash": "7a76e5fb5ddfaeae6dc6f54f0aa00f88afa41740e608188bbe102063c5cbe0f8",
       "size": 6072372
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Murad.dat",
-      "hash": "83362001af18687b9c2c3824d504e2d7c1183ac50603f58c0b3f72a8cf15aff8",
+      "hash": "f3d6854ebb3325779a2e0de0431c1c4620b56005ac61019ab9c5369aaf67d203",
       "size": 5618157
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Nakroth.dat",
-      "hash": "d2907a6589533ca0ceab4d044bf71dbe30e0b862cc340c3aeb29472f7d80c96e",
+      "hash": "3a66be10fdf22b9c48c317e89b283cc230885f2f1beba80a1eadb21f75b3e526",
       "size": 29839765
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Natalya.dat",
-      "hash": "a5afeb5eaaf7e0e0b45f96d54f84ca7905b56e818f66cda5104c0d19de7633f7",
+      "hash": "f19e3b4f4a28a048b892e0adc899acd098cf261a3db17f5326d6caeca4dc592f",
       "size": 4411858
     },
     {
       "path": "frontend/images/heroMotion/encrypted/NgoKhong.dat",
-      "hash": "2e68ec04665152959fdfb44826f89b91623e04a46e80dfabb052ce20ae9b0896",
+      "hash": "e3c5b91d8c5cd4d973665fec85eb61e8dce0ba87e598023c57e49742425c0e5a",
       "size": 6821599
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Omega.dat",
-      "hash": "7133eacfbfa866f7c070073ca9e8f564185f556a8220b43533b257021317db1f",
+      "hash": "a7eee3b8228997d82c2b52ab161cd9e132047fa7796fe9f2bcb7f7d5929f6ab0",
       "size": 3880642
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Omen.dat",
-      "hash": "fd46ca3c9c342b9ca84ec1d42d4b31b56d39143a185a386944da7a8a71b8ef35",
+      "hash": "3a3b8fe3a2b3ec8ac71d27d011f1c0c57ef069d105a17101a14524e9c8098a1f",
       "size": 7243015
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Ormarr.dat",
-      "hash": "da9ae598de24204d7b2bef1c6992b0e91b142c00dd6cf55195b02d1f724144f1",
+      "hash": "d5df8a5ccd7300c8e6a305af3789de5212b1ebf83f915b0ddf16eefbb173fe25",
       "size": 6116478
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Paine.dat",
-      "hash": "6e4a5e60f2e6f08f7efd5fc7f5a5e4bc52950242dab9b22cd2cf70d578fdb6ac",
+      "hash": "1b383a4a7639bf3d93eea425bcc7ea7b9815b8606bc381d44cde239117023c77",
       "size": 4665887
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Preyta.dat",
-      "hash": "faece0e7118812900b8534e6c0546ea9c7846def3106b65e2cacc572eefcea4c",
+      "hash": "edbce929fcca698d41cb516255a6f1bf3f074e7a23a442cac5103046878c52b1",
       "size": 4818335
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Qi.dat",
-      "hash": "bd7d8fa9bc0d94f01169819d35f6bb215ce1f795d8b8071c5029880333a18acd",
+      "hash": "b3b23c288de2bd47591321e7a900fe3ce90499227fd1eb1a4eb81834cac3beff",
       "size": 4884506
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Quillen.dat",
-      "hash": "22c583f761464be33b0ddafaafaa6621635fc0ef6951db2820a808e8e4c2c06e",
+      "hash": "92c0dcadd12f4ab27b907c07988cad3b416ceadbf5a680d759ffafeb99791632",
       "size": 5509121
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Raz.dat",
-      "hash": "d040bcd4767e80dfa57c550095da522d17b2fac7855f3f244148ece6c3a0af28",
+      "hash": "afba58ec0285cb55d40af3dc6ff38e7f48a16a809608242221458c4af0df2e37",
       "size": 13986517
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Richter.dat",
-      "hash": "22351f1604585b20d9caa465829fe01d1ad2bd9c834319e6b502d4ec89e4a4cc",
+      "hash": "9d14c41bcdcae0d76867d7bf152c901f299dd92a2c28240fbb6841ec821aef06",
       "size": 5184231
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Rouie.dat",
-      "hash": "ca21b903665a580a30fd0bc8a3041c715ac9ccbc8af10052f1b57cf39391616b",
+      "hash": "bb5e3559f3413167f2abf70329c70b54501a9a13a3a087ffdbc87d5f8faf131b",
       "size": 5495463
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Rourke.dat",
-      "hash": "3cb41adf3ee4b2f711d31749a76ca53d7706f8361042b59898a35e513b51f50d",
+      "hash": "dd12e0305a42af048f33d5d05e5152a59bf75fcef31857b72206390eefad91d1",
       "size": 5312926
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Roxie.dat",
-      "hash": "f2b475ab19b007f304c8d166ca6486b0a46b04f69c7aaa5d8ee21fd2a3e9ab20",
+      "hash": "6b770e101c8d39bcba8fa281d781632019449a43cb6094ffbbf51d8be5f2f3c5",
       "size": 5514172
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Ryoma.dat",
-      "hash": "074f2f291ccb56684e72bda7d0cb0ade16307b3321027f9009bd740a4386ab8c",
+      "hash": "79e0229208c6f3bccd3aa2e6677747ea587a9356940b684b951cd20e27ab031b",
       "size": 6015171
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Sephera.dat",
-      "hash": "9948394c6efebd46119fda22a4d2267183409151517c52150340b8f395301ca2",
+      "hash": "b781e417b4828fd4811a72397b684830ea839c28eaa59f2a5ceb1041edc547c1",
       "size": 5463109
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Sinestrea.dat",
-      "hash": "f3165584d91b338c234c11e81e8efcf4d27b0dcb14510053486dcf8bd4ad5db6",
+      "hash": "f6f3eac4ba0206ddcfde74ed23991c91f8af2d00892feb805a057570241fae05",
       "size": 9434656
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Skud.dat",
-      "hash": "93fc77397807df90135f9341e192f21a9cc6176f4f326d6f716f70e03252e96b",
+      "hash": "2c640fb0a62afe2420f4e982f80b64cfceaa1a08755da3bc9e6aed806edb8823",
       "size": 5601525
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Slimz.dat",
-      "hash": "621b2805e4936f67f41141951a82755ebd705d66a25e29e64956e6e98053df9c",
+      "hash": "dc98e4fd76b3ebc88cc70121457fa4658ce1f947aeb41cb6cbe8cb7e9dd11044",
       "size": 5277755
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Stuart.dat",
-      "hash": "274754cf1154d53621014b29702c60beaf8846da986c6fc33b78225b3258ecac",
+      "hash": "7ef8212f78c25d7257ce549d50f6f9c5e027ef39906bfad4018527e2aee39f66",
       "size": 15664825
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Superman.dat",
-      "hash": "f5c0d4bbd66fee9bca88c4d5fbc3c6f5746e2a854097e934c1516ce9b237005c",
+      "hash": "ecb33880f76baca546fcf4eb17a014d757af8e7d9ba0bf0c032807fbdee08e0a",
       "size": 5505939
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Taara.dat",
-      "hash": "028773ee0e927993b88a41cafe9cd8f589c488d70182aa5a56c214327cd702ea",
+      "hash": "f494a466e063c861394792ee6cb6d43f49c077fdeb3e59089d0185109a985bdf",
       "size": 5967995
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Tachi.dat",
-      "hash": "ec9e53a5f8e2aae1140d250ba46ed16d54754d3bf03bed7d2c2a1a5565cc66a9",
+      "hash": "0209ae2e3ecb6cbd7be88ea3e2723ea2c1deab20fb184ed7fde88c2ff927447c",
       "size": 5228877
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Tamyn.dat",
-      "hash": "42df3496b0a8846d3aaa88c4093212af800290f45eefee3ac39ab3a71c034c5e",
+      "hash": "dcc9297646d23c7738f135ceafdc06652ca1ee27df5a78777329e63663f33965",
       "size": 525113
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Teemee.dat",
-      "hash": "7a789c7d1462534a7074693bf47f5e39c231d7074e365c2884da43c16b4556f6",
+      "hash": "bd2464fcabf21a3506dd91732cf0bc8838a65180a0487c61444b74177c7bf76c",
       "size": 6298222
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Teeri.dat",
-      "hash": "f3080a4a50e71ee1d9d485f46432ae0e9800e4fa5adfe10632f9eb401eb9f26b",
+      "hash": "85985ba02ebf926381910d52f8fc285a25f0b8a311b3ea4a6e058ef83ebf3184",
       "size": 5724869
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Telannas.dat",
-      "hash": "5c12c9905a8096fe91abc2789e712d27765b55c3fcf23012ad442b112b8f96ff",
+      "hash": "6966912c28f0ab401a798950a844f86ea7ed2e043427b7e7bbaf6392a473784c",
       "size": 5367265
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Thane.dat",
-      "hash": "c4e1137b933429a2f00894f4da56eb4a021f3db157aa8b784a9ffa024d2fa63f",
+      "hash": "e4a846759dff29d6718db29833bd25b54e86387804772bc8f3616b99d6e376d0",
       "size": 7128547
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Thorne.dat",
-      "hash": "fcd05048e82a7abaa4ea843c8b9d6c998ac64f27fa3f72c304dee72a045b5474",
+      "hash": "f9f090e9989ca21138b9c09632a6983f5d66423cbc3b6185ea8e3cc1dad68c3d",
       "size": 5511648
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Toro.dat",
-      "hash": "7674c2ec8807a70298e9717b8e1258aa6a39f25f13dc66a3bee1616a39281dae",
+      "hash": "b7c16d1c5ff5658a1d037f928dc954899830238acd984808dbde856c00b21c94",
       "size": 8020979
     },
     {
       "path": "frontend/images/heroMotion/encrypted/TrieuVan.dat",
-      "hash": "2ab2667e287250c9378750a0b91ae400eab5d31f4fa217851ace346d2246256a",
+      "hash": "2da9b9c95b9db393dd697138c971a581763772522057d2347ce6f4a82b1804d0",
       "size": 5954105
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Tulen.dat",
-      "hash": "ec888b0bd7b40045e6b4f4ac200b96037f57b354e8f0a234e3c70963ab8a887f",
+      "hash": "5f94666647bd2862b45c7370938e64953dda756e8f4077ed0867f0068d5536c8",
       "size": 5841483
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Valhein.dat",
-      "hash": "16298d07c5624fb13892a882c59fd629dbcb37e100f3a84798b98338f0d31d5d",
+      "hash": "0e8f0627224dfd398cbe3ed424979ea50ed52beb4f87be9cf90ae93002a0c0c0",
       "size": 6734768
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Veera.dat",
-      "hash": "4bd9e813b8b8278df5e9f27ec2d32b9f3dd0a478074296e6f6cd4e603e967745",
+      "hash": "20718e847f8de918c47e1ae02e745af2b66d4303625793c755aa38b548077f4f",
       "size": 5961507
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Veres.dat",
-      "hash": "843f34d8f258a7f07a079471755c6098c070b62790ae44706c2003ab2eaf7eed",
+      "hash": "bd79439392ceed8141554da5da19c5de199aa6288b26bab8c1e94ac55a983b91",
       "size": 5091342
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Violet.dat",
-      "hash": "d26477ec9024e54a41c5b46b3db317aef2606e9f61f81333d29021639339505e",
+      "hash": "509b63746878322eea479e933022393a865e226729b391cac277e6efa7aa15b3",
       "size": 5321599
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Volkath.dat",
-      "hash": "e8e7976a97f9b1a0cb60a29c2df84b96f7b75480ee97f56774b5501cb3b6fadb",
+      "hash": "80b5b67d1e78a660a1138aee107c9760c0a2a0b8846dd6a43985a6624b454beb",
       "size": 5075797
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Wiro.dat",
-      "hash": "4678019d0861af1baf533e01f63eda4984b152805405e0b42760d0ed9b33e9a8",
+      "hash": "c967be9aade22d3757470f444be2f699272cc7e55305ba01a4bc4ff2408191e8",
       "size": 5164226
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Wisp.dat",
-      "hash": "c642245932073cd536ff467082a83fff0369f5b934218acc1def67a471502b75",
+      "hash": "baebbc2df9552586a7486507d66f207b7239b2cbe5cea9d3d6ecb442416294f9",
       "size": 5993147
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Wonder.dat",
-      "hash": "f50433b3edd402c642f970ed9e85997918623c6d8aa1a8d08ec2b3a893bee683",
+      "hash": "6da8f3a1ec46b264db3dcd996e9b6f5243b2f5b023375555b9147aca3d849f42",
       "size": 4232676
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Xeniel.dat",
-      "hash": "eabf44fbaf4d470d0f9894a00fc53d549b9980aba395f067df9fb013dca6f975",
+      "hash": "e58e33555406bb8a7f30f1cf11fa66a7715d085dc4b174a03cf4f6306ce4aa27",
       "size": 7063763
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Yan.dat",
-      "hash": "a587a7bdd61d04f47a4b1346f283fb42bd454a8c297ad6f17c030573518d90c8",
+      "hash": "81c600cefb3f7140962a6e670147a55694648d154994742dda62b88ce2ebf294",
       "size": 6237512
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Ybneth.dat",
-      "hash": "96ba49fe65d7b8e1c3a7df36a758632dfa6749ed5361cea28c680a19d17808e7",
+      "hash": "93cbb094d9d1f108d94c0977a15a46428895f8ddbbeb503f2b41ea0b7d9b49aa",
       "size": 6718979
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Yena.dat",
-      "hash": "c0bbf509a8729bdcf87b4363129c416fa57296c057dd34073d85959db2649832",
+      "hash": "12b2bf6385d98b6e5a5050bd3a39f2567c75f0b5f78d81bec56c2d116e8d99be",
       "size": 4789089
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Yorn.dat",
-      "hash": "7b8b7d09ce7c5736d673507037d6aee782f67f3f4e8bb0a00c4afc30fa44805c",
+      "hash": "5495397ebfdefd82c80b2fd5c141d76f6acdd5a6c709fd307e5fb3ff5578d01b",
       "size": 5628611
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Yue.dat",
-      "hash": "23166a09a2698e5a1d6edb540ce8dede2a48f13fbd1fd9e5d3fd76fc9af1719c",
+      "hash": "eafe5292a9db854ec6514e55f67b1fc08fa9bc4420cfda26a24f626e69738e64",
       "size": 1331892
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Zata.dat",
-      "hash": "9739406215bd39e33e498c487f183108c8013e1ce84d8b246820af369d287aa0",
+      "hash": "03739e9966503b1ced96013a4afe0e99f344930a422b535fc295785f807da5e8",
       "size": 4954887
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Zephys.dat",
-      "hash": "a6a4fccb55b288d4fe4291856128f7a861a65c5d4e619dc4d26925501b59d1fb",
+      "hash": "70ca42d50452ab08584b414f78e747020badca9510bf8d5a7f7d2ec9e57a69ff",
       "size": 4606597
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Zill.dat",
-      "hash": "56ddb775aa00ce02f47b1f3db764dc9219358434a876ded75d2c449150e1b34b",
+      "hash": "f4f5713e234a14741afe7b66a44beb47d138e3d512e7a309a61dfc3ed49048cc",
       "size": 6143671
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Zip.dat",
-      "hash": "5035431be96e02ecab3ac8f12b418389486bc126e705f27014c0958ba956e8ab",
+      "hash": "597b776727c55f71719b385e25b5f0a310c28dd705b81a1b0ec3327d0daca605",
       "size": 4464708
     },
     {
       "path": "frontend/images/heroMotion/encrypted/Zuka.dat",
-      "hash": "9896eed389211b17b2e8902c9c518ed54658a7aad4325480ed896284b9ec0593",
+      "hash": "7b4a877af6ef69ace798e43deb205dc42d327fbd21c90888ec81e8b19067b436",
       "size": 4481190
     }
   ]
