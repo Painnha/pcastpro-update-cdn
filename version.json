@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "3.1",
+    "version":  "3.2",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
     "releaseNotes":  [
-                         "them motion tuong ti le 2:3",
-                         "them tuong da pick cho theme chanhdtdv"
+                         "them theme blvChanh030826",
+                         "fix loi tuong da pick va loi khong chon duoc tuong o slot ban dau tien"
                      ],
     "history":  [
                     {
@@ -157,6 +157,14 @@
                                              "sua lai co che tu dong tai motion tuong"
                                          ],
                         "version":  "3.0"
+                    },
+                    {
+                        "date":  "2026-08-04",
+                        "releaseNotes":  [
+                                             "them motion tuong ti le 2:3",
+                                             "them tuong da pick cho theme chanhdtdv"
+                                         ],
+                        "version":  "3.1"
                     }
                 ]
 }
