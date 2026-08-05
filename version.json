@@ -1,10 +1,7 @@
 ﻿{
-    "version":  "3.2",
+    "version":  "3.3",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  [
-                         "them theme blvChanh030826",
-                         "fix loi tuong da pick va loi khong chon duoc tuong o slot ban dau tien"
-                     ],
+    "releaseNotes":  "chinh sua lai UI tuong da pick toan bo theme",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -165,6 +162,14 @@
                                              "them tuong da pick cho theme chanhdtdv"
                                          ],
                         "version":  "3.1"
+                    },
+                    {
+                        "date":  "2026-08-05",
+                        "releaseNotes":  [
+                                             "them theme blvChanh030826",
+                                             "fix loi tuong da pick va loi khong chon duoc tuong o slot ban dau tien"
+                                         ],
+                        "version":  "3.2"
                     }
                 ]
 }
