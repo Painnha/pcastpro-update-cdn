@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "3.3",
+    "version":  "3.4",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "chinh sua lai UI tuong da pick toan bo theme",
+    "releaseNotes":  "cap nhat giao dien theme blvchanh030826 va motion 3 tuong val henio va telannas",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -170,6 +170,11 @@
                                              "fix loi tuong da pick va loi khong chon duoc tuong o slot ban dau tien"
                                          ],
                         "version":  "3.2"
+                    },
+                    {
+                        "date":  "2026-08-13",
+                        "releaseNotes":  "chinh sua lai UI tuong da pick toan bo theme",
+                        "version":  "3.3"
                     }
                 ]
 }
