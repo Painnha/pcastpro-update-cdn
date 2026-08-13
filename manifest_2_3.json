@@ -1,13 +1,13 @@
 {
-  "version": "3.0",
+  "version": "3.3",
   "format": "2:3",
-  "releaseNotes": "PCastPro Release v3.0 - Unified Delta Updater & Motion Hero Assets (2:3)",
-  "updatedAt": "2026-07-30T14:26:59.264Z",
-  "coreDownloadUrl": "https://pcastpro.nguyentriphong.id.vn/downloads/PCastPro-v3.0.zip",
+  "releaseNotes": "PCastPro Release v3.3 - Unified Delta Updater & Motion Hero Assets (2:3)",
+  "updatedAt": "2026-08-13T14:53:54.236Z",
+  "coreDownloadUrl": "https://pcastpro.nguyentriphong.id.vn/downloads/PCastPro-v3.3.zip",
   "assetsBaseUrl": "https://github.com/Painnha/pcastpro-update-cdn/releases/download/v2.4-2-3/",
-  "totalAssets": 129,
-  "totalSizeBytes": 1452181508,
-  "totalSizeMB": "1384.91",
+  "totalAssets": 132,
+  "totalSizeBytes": 1463350805,
+  "totalSizeMB": "1395.56",
   "assets": [
     {
       "path": "frontend/images/heroMotion/encrypted_2_3/Airi.dat",
@@ -60,14 +60,14 @@
       "size": 10910712
     },
     {
-      "path": "frontend/images/heroMotion/encrypted_2_3/ata.dat",
-      "hash": "88cce2262bd880f2b3d7b9814c13033f785d536e67d263583ba64cde3ee3de04",
-      "size": 11008358
-    },
-    {
       "path": "frontend/images/heroMotion/encrypted_2_3/Astrid.dat",
       "hash": "797d2f50142908db1bfd856bd849c5ac5de185ef7506a569160dafc2fa6f806a",
       "size": 10636474
+    },
+    {
+      "path": "frontend/images/heroMotion/encrypted_2_3/ata.dat",
+      "hash": "88cce2262bd880f2b3d7b9814c13033f785d536e67d263583ba64cde3ee3de04",
+      "size": 11008358
     },
     {
       "path": "frontend/images/heroMotion/encrypted_2_3/Aya.dat",
@@ -258,6 +258,11 @@
       "path": "frontend/images/heroMotion/encrypted_2_3/Helen.dat",
       "hash": "f104a8ace6a25a870c3baffbd98910694b5f8b3863f6235b8919c1679a234f1b",
       "size": 10646309
+    },
+    {
+      "path": "frontend/images/heroMotion/encrypted_2_3/Henio.dat",
+      "hash": "5f8f8d3a8e51fa874c2c764fbeb020d3b6d653cb06d3f46ae3c095a80cd9d8bc",
+      "size": 3836698
     },
     {
       "path": "frontend/images/heroMotion/encrypted_2_3/Iggy.dat",
@@ -535,6 +540,11 @@
       "size": 10786049
     },
     {
+      "path": "frontend/images/heroMotion/encrypted_2_3/Telannas.dat",
+      "hash": "ebf463190b5843dd18b82cac3e33dc4fc88a15156f604fc68654189b127fb1d1",
+      "size": 3628884
+    },
+    {
       "path": "frontend/images/heroMotion/encrypted_2_3/Thane.dat",
       "hash": "10603347eea1c3d73b82e9473172cb96a90e696c1940cef70aa7cf94c5dd58d4",
       "size": 11025691
@@ -563,6 +573,11 @@
       "path": "frontend/images/heroMotion/encrypted_2_3/Vahein.dat",
       "hash": "1a0d5a6b1ac63a62ab527720704acb45a536639e887fdf268343796a7f8f36ac",
       "size": 11021086
+    },
+    {
+      "path": "frontend/images/heroMotion/encrypted_2_3/Valhein.dat",
+      "hash": "7ddd0da5f75686c53f1fdf6a3dc825781090a55cde4401629d65968b827e789a",
+      "size": 3703715
     },
     {
       "path": "frontend/images/heroMotion/encrypted_2_3/Veera.dat",
