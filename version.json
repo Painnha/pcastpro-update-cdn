@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "3.4",
+    "version":  "3.5",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "cap nhat giao dien theme blvchanh030826 va motion 3 tuong val henio va telannas",
+    "releaseNotes":  "them hieu ung flip cho pick slot cua theme blvChanh030826",
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -175,6 +175,11 @@
                         "date":  "2026-08-13",
                         "releaseNotes":  "chinh sua lai UI tuong da pick toan bo theme",
                         "version":  "3.3"
+                    },
+                    {
+                        "date":  "2026-08-16",
+                        "releaseNotes":  "cap nhat giao dien theme blvchanh030826 va motion 3 tuong val henio va telannas",
+                        "version":  "3.4"
                     }
                 ]
 }
