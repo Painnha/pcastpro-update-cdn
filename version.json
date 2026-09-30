@@ -1,7 +1,11 @@
 ﻿{
-    "version":  "3.5.1",
+    "version":  "3.6",
     "downloadUrl":  "https://github.com/Painnha/pcastpro-update-cdn/releases/latest/download/pcastpro-latest.zip",
-    "releaseNotes":  "sua font chu va mau chu theme blvchanh030826",
+    "releaseNotes":  [
+                         "cap nhat motion preyta",
+                         "cap nhat tuong moi evita",
+                         "sua loi apl2025"
+                     ],
     "history":  [
                     {
                         "date":  "2026-07-08",
@@ -185,6 +189,11 @@
                         "date":  "2026-08-17",
                         "releaseNotes":  "them hieu ung flip cho pick slot cua theme blvChanh030826",
                         "version":  "3.5"
+                    },
+                    {
+                        "date":  "2026-09-30",
+                        "releaseNotes":  "sua font chu va mau chu theme blvchanh030826",
+                        "version":  "3.5.1"
                     }
                 ]
 }
