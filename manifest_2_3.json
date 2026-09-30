@@ -1,9 +1,9 @@
 {
-  "version": "3.5.1",
+  "version": "3.3",
   "format": "2:3",
-  "releaseNotes": "PCastPro Release v3.5.1 - Unified Delta Updater & Motion Hero Assets (2:3)",
-  "updatedAt": "2026-09-30T13:16:13.843Z",
-  "coreDownloadUrl": "https://pcastpro.nguyentriphong.id.vn/downloads/PCastPro-v3.5.1.zip",
+  "releaseNotes": "PCastPro Release v3.3 - Unified Delta Updater & Motion Hero Assets (2:3)",
+  "updatedAt": "2026-09-30T13:36:16.932Z",
+  "coreDownloadUrl": "https://pcastpro.nguyentriphong.id.vn/downloads/PCastPro-v3.3.zip",
   "assetsBaseUrl": "https://github.com/Painnha/pcastpro-update-cdn/releases/download/v2.4-2-3/",
   "totalAssets": 132,
   "totalSizeBytes": 1456169788,
