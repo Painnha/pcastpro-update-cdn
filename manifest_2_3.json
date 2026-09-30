@@ -1,13 +1,13 @@
 {
-  "version": "3.3",
+  "version": "3.5.1",
   "format": "2:3",
-  "releaseNotes": "PCastPro Release v3.3 - Unified Delta Updater & Motion Hero Assets (2:3)",
-  "updatedAt": "2026-08-13T14:53:54.236Z",
-  "coreDownloadUrl": "https://pcastpro.nguyentriphong.id.vn/downloads/PCastPro-v3.3.zip",
+  "releaseNotes": "PCastPro Release v3.5.1 - Unified Delta Updater & Motion Hero Assets (2:3)",
+  "updatedAt": "2026-09-30T13:16:13.843Z",
+  "coreDownloadUrl": "https://pcastpro.nguyentriphong.id.vn/downloads/PCastPro-v3.5.1.zip",
   "assetsBaseUrl": "https://github.com/Painnha/pcastpro-update-cdn/releases/download/v2.4-2-3/",
   "totalAssets": 132,
-  "totalSizeBytes": 1463350805,
-  "totalSizeMB": "1395.56",
+  "totalSizeBytes": 1456169788,
+  "totalSizeMB": "1388.71",
   "assets": [
     {
       "path": "frontend/images/heroMotion/encrypted_2_3/Airi.dat",
@@ -436,8 +436,8 @@
     },
     {
       "path": "frontend/images/heroMotion/encrypted_2_3/Preyta.dat",
-      "hash": "109b155626d044021e1fc6ad113974d174db166c13eff8d176704b2b2c1f94d3",
-      "size": 10820588
+      "hash": "9c792cd0c22acc85e7c968dbe73394caa71c6f0296ced71a98c780cbb4a13873",
+      "size": 3639571
     },
     {
       "path": "frontend/images/heroMotion/encrypted_2_3/Qi.dat",
